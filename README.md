@@ -14,7 +14,7 @@ When I'm Not Coding You Can Find Me
 - 🎷 playing music
 - ⛷ skiing
 - 🍝 cooking 
-- 🤝 trying to connect (maybe with you? [Here's my LinkedIn](https://www.linkedin.com/in/seanculliton/))
+- 🤝 making new friends (maybe you? [Here's my LinkedIn](https://www.linkedin.com/in/seanculliton/))
 <hr>
 
 [![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=smculliton&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
