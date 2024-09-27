@@ -1,5 +1,5 @@
 ## Hey, I'm Sean
-I'm Sean, Denver musician and dog dad turned Software Engineer. Currently excited about building apps that help people, and learning React to compliment my skills as a Backend Engineer
+I'm Sean, Denver musician and dog dad turned Software Engineer.
 
 <img src=https://media.giphy.com/media/8LDHJbotKQyp99YZCQ/giphy.gif align=right width=30% height=30%>
 
