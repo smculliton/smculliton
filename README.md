@@ -22,7 +22,6 @@ I'm Sean, Denver musician and dog dad turned Software Engineer. Currently excite
 - learning Typescript
 - finishing a [recipe app](https://lunch-and-learn-fe.vercel.app/) to learn React 
 - writing music for the band [Retrofette](https://open.spotify.com/artist/3WEyHl45TSdOcV4aKSkV6Z?si=bVPriXOIRHSsX8bSvR_SeQ)
-- searching for Junior Developer opportunities
 
 
 #### When I'm Not Coding You Can Find Me
