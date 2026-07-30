@@ -4,7 +4,7 @@ I'm Sean, Denver musician, dog dad, and real dad turned Software Engineer.
 <img src=https://media.giphy.com/media/8LDHJbotKQyp99YZCQ/giphy.gif align=right width=30% height=30%>
 
 #### Languages and Tools
-RUBY | RAILS | PYTHON | JAVASCRIPT | REACT | N8N
+RUBY | RAILS | PYTHON | JAVASCRIPT | REACT | N8N | CLAUDE | CURSOR
 
 #### Currently Working On
 - Integrating AI systems into legacy software apps
