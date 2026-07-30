@@ -17,5 +17,3 @@ RUBY | RAILS | PYTHON | JAVASCRIPT | REACT | N8N | CLAUDE | CURSOR
 - 🍝 cooking 
 - 🤝 making new friends (maybe you? [Here's my LinkedIn](https://www.linkedin.com/in/seanculliton/))
 <hr>
-
-[![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=smculliton&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
