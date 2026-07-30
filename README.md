@@ -8,7 +8,7 @@ RUBY | RAILS | PYTHON | JAVASCRIPT | REACT | N8N | CLAUDE | CURSOR
 
 #### Currently Working On
 - Integrating AI systems into legacy software apps
-- Building MCPs on Rails app to empower users to access data with natural language
+- Building MCPs on top of Rails apps to empower users to access data with natural language
 
 
 #### When I'm Not Coding You Can Find Me
